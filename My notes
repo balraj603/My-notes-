@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Balraj's Notes</title>
+</head>
+<body>
+  <h1>Welcome to Balraj's Notes</h1>
+  <ul>
+    <li><a href="math.pdf" target="_blank">Math Notes</a></li>
+    <li><a href="science.pdf" target="_blank">Science Notes</a></li>
+  </ul>
+</body>
+</html>
